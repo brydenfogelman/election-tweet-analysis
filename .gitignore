@@ -1,0 +1,5 @@
+data_files/*
+tweets/*
+properties/*
+.DS_Store
+.ipynb_checkpoints/*
